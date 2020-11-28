@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: OSGeo Oceania
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/8ac2fba0-ca53-4b5c-9479-4c00f38b6ddc/
 subtitle: Supporting and growing the open geospatial community in the Oceania region.
 meta:
   description: This is a meta description.
