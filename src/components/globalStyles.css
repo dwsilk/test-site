@@ -5,8 +5,8 @@
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
-  --font-primary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  --font-primary: 'Miriam Libre Bold', 'Open Sans', sans-serif;
+  --font-system: 'Sintony Regular', system-ui; /* postcssPresetEnv */
   --borderRadius: 3px;
 }
 
