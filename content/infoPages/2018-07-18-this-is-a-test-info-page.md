@@ -1,16 +1,42 @@
 ---
 template: DefaultPage
-slug: test slug
-title: This is a test info page
-featuredImage: >-
-  https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
+slug: supporters
+title: Supporters
+featuredImage: https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
 meta:
   description: test meta description
   title: test meta title
 ---
+## Microsoft
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
+**2018 Platinum Sponsor · 2019 Platinum Sponsor · 2019 Travel Grant Program Contributor**
 
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this.
+## Koordinates
 
-**It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**
+**2018 Platinum Sponsor · 2019 Gold Sponsor · 2020 Hub Sponsor**
+
+## Geoplex
+
+**2018 Platinum Sponsor · 2019 Gold Sponsor**
+
+## Terria
+
+**2018 Platinum Sponsor · 2019 Gold Sponsor**
+
+## Land Information New Zealand
+
+**2019 Platinum Sponsor**
+
+## Mapillary
+
+**2018 Gold Sponsor · 2019 Gold Sponsor**
+
+## AddressFinder
+
+**2018 Gold Sponsor · 2019 Gold Sponsor**
+
+## Pinpoint Geospatial Solutions
+
+**2019 Gold Sponsor · 2019 Travel Grant Program Contributor**
+
+etc
