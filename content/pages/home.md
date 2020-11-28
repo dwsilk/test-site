@@ -1,30 +1,22 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: OSGeo Oceania
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: Supporting and growing the open geospatial community in the Oceania region.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
+**OSGeo Oceania Limited** is a *Company Limited by Guarantee* registered by the Australian Securities and Investments Commission (ASIC). Its purpose is to foster the growth of the geospatial open source & open data community in the Oceania region, including the oversight and stewardship of a FOSS4G & SotM Conference series.
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+## Membership
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Membership of OSGeo Oceania is an opportunity to engage more actively with the support of open geospatial software & data in Oceania. Members can support OSGeo Oceania in a variety of ways:
 
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+* Helping to organise the annual FOSS4G SotM Oceania conference series
+* Organising local geospatial events
+* Editing in OpenStreetMap
+* Active discussions in Oceania related mailing lists
+* Writing developer documentation for open source geospatial projects
+* Contributing to open source geospatial repositories
