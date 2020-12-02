@@ -5,8 +5,8 @@
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
-  --font-primary: 'Miriam Libre', 'Open Sans', sans-serif;
-  --font-system: 'Sintony', system-ui; /* postcssPresetEnv */
+  --font-primary: 'Miriam Libre';
+  --font-system: 'Syntony';
   --borderRadius: 3px;
 }
 
