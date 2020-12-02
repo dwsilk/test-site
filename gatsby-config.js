@@ -17,6 +17,16 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Miriam Libre`,
+          `Syntony`
+        ],
+        display: 'swap'
+      }
+    },
+    {
       resolve: 'gatsby-plugin-offline',
       options: {
         runtimeCaching: [
